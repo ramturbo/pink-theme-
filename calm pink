@@ -15,7 +15,7 @@
     --guildchanneltransparency: 0.15;
     --memberlistransparency: 0;
     --accentcolor: 238,40,123;
-    --background: url("https://vsthemes.org/uploads/posts/2021-04/1619515772_izobrazhenie_2021-04-27_122754.webp");
+    --background: url("https://i.pinimg.com/736x/9f/aa/89/9faa89c554de9aa23345b1865431e4de.jpg");
     --backdrop: rgba(0,0,0,0.2);
     --backgroundblur: 0px;
     --popoutblur: 0px;
